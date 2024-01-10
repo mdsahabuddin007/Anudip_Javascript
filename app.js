@@ -1,7 +1,7 @@
 
-const accessKeyId = "AKIA2TM7XGTPVPW63HXZ";
-const secretAccessKey = "Gsb8pu4KCPgGOTMax+bUq4orvUIk43wss9iW7IQK";
-const bucketName = "js3223"; 
+const accessKeyId = "Your access key";
+const secretAccessKey = "your secret access key";
+const bucketName = "bucket_name"; 
 
 AWS.config.update({
     accessKeyId: accessKeyId,
